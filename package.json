@@ -1,0 +1,22 @@
+{
+  "name": "npm_array_b9_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niardan/npm_array.git"
+  },
+  "author": "Vadim Kotov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niardan/npm_array/issues"
+  },
+  "homepage": "https://github.com/Niardan/npm_array#readme",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
